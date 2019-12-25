@@ -1,2 +1,4 @@
-import tkinter as TK
-import requests
+import Tkinter
+import pypinyin
+top = Tkinter.Tk()
+top.mainloop()
